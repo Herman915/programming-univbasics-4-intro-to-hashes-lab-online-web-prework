@@ -4,11 +4,12 @@ def new_hash
 end
 
 def my_hash
-  my_hash = { name: "Herman"
+  my_hash = { name: "Herman", age: 59}
   # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
+  pioneer = { :name 'Grace Hopper'}
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
